@@ -6,7 +6,7 @@ The aim of this project is to develop from scratch an algorithm in python withou
 ## Scope of the project
 * 3 functions were implemented :
     1. meilleur_split : Find the best split
-    2. construction_arbre: Build the tree
+    2. construction_arbre : Build the tree
     3. Prediction : Predict a new observation
 * 3 hyperparameters were implemented (maximum depth, impurity criterion, minimum information gain)
 
