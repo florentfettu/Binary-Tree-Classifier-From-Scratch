@@ -5,7 +5,9 @@ The aim of this project is to develop from scratch an algorithm in python withou
  
 ## Scope of the project
 * 3 functions implemented :
-** fjefj
+- find the best split
+- build the tree
+- predict a new observation
 * 3 hyperparameters were implemented (maximum depth, impurity criterion, minimum information gain)
 
 ## Speed and performance test of our tree versus sklearn tree
