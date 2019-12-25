@@ -6,6 +6,6 @@ The aim of this project is to develop from scratch an algorithm in python withou
 ## Scope of the project
 * 3 hyperparameters were implemented (maximum depth, impurity criterion, minimum information gain)
 
-## Speed and performance test of our tree versus scikit-learn tree
+## Speed and performance test of our tree versus sklearn tree
 * Less faster than sklearn tree to predict 1 million observations
 * Better results than sklearn tree on the Iris dataset
