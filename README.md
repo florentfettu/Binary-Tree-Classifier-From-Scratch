@@ -12,4 +12,4 @@ The aim of this project is to develop from scratch an algorithm in python withou
 
 ## Speed and performance test of our tree versus sklearn tree
 * Less faster than sklearn tree to predict 1 million observations
-* Better results than sklearn tree on the Iris dataset
+* Better accuracy than sklearn tree on the Iris dataset
