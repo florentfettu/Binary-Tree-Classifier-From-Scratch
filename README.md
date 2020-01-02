@@ -1,4 +1,4 @@
-# Binary-Tree-Classifier-From-Scratch
+# Binary Tree Classifier From Scratch
 
 ## Description
 The aim of this project is to develop from scratch an algorithm in python without using any third party package, or as little as possible. We decided to build our own binary tree classifier.
