@@ -11,5 +11,5 @@ The aim of this project is to develop from scratch an algorithm in python withou
 * 3 hyperparameters were implemented (maximum depth, impurity criterion, minimum information gain)
 
 ## Speed and performance test of our tree versus sklearn's tree
-* Slower than sklearn tree to predict 1 million observations
+* Slower than sklearn's tree to predict 1 million observations
 * Better accuracy than sklearn's tree on the Iris dataset
